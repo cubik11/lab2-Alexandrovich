@@ -6,19 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "npm test",
-    "main": "node src/app/main.js",
-    "add": "node src/fs/add.js",
-    "cat": "node src/fs/cat.js",
-    "cp": "node src/fs/cp.js",
-    "mv": "node src/fs/mv.js",
-    "rm": "node src/fs/rm.js",
-    "rn": "node src/fs/rn.js",
-    "architecture": "node src/os/architecture.js",
-    "cpus": "node src/os/cpus.js",
-    "eol": "node src/os/eol.js",
-    "homedir": "node src/os/homedir.js",
-    "username": "node src/os/username.js",
-    "ls": "node src/nav/ls.js"
+  "start":  "node ./index.js"
   },
   "repository": {
     "type": "git",
